@@ -24,5 +24,6 @@ const  firebaseApp  =  firebase.initializeApp(config);
 export  default  firebaseApp.firestore();
 ```
 You can then run the development server using
-`npm run serve`
+`npm run serve`  
+
 A live build of the app can be viewed here.
